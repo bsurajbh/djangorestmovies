@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8bbc8069-5fd3-4acc-8f8a-78e08255a497" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/api/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/movies/filters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/movies/management/commands/dbseed.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/movies/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/movies/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/users/serilizers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/users/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/constants.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/factories.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bLVJSY8PlBIi0oh7Y8f0j61Nai" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8bbc8069-5fd3-4acc-8f8a-78e08255a497" name="Default Changelist" comment="" />
+      <created>1588411288879</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588411288879</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="416" y="133" width="530" height="498" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588498970324">
+      <screen x="0" y="28" width="1366" height="712" />
+    </state>
+    <state x="416" y="133" width="530" height="498" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.28.1366.712@0.28.1366.712" timestamp="1588498970324" />
+    <state x="462" y="138" width="430" height="480" key="FileChooserDialogImpl" timestamp="1588416203413">
+      <screen x="0" y="28" width="1366" height="712" />
+    </state>
+    <state x="462" y="138" width="430" height="480" key="FileChooserDialogImpl/0.28.1366.712@0.28.1366.712" timestamp="1588416203413" />
+    <state x="172" y="28" key="SettingsEditor" timestamp="1588416219174">
+      <screen x="0" y="28" width="1366" height="712" />
+    </state>
+    <state x="172" y="28" key="SettingsEditor/0.28.1366.712@0.28.1366.712" timestamp="1588416219174" />
+    <state x="278" y="120" width="806" height="524" key="Vcs.Push.Dialog.v2" timestamp="1588415536825">
+      <screen x="0" y="28" width="1366" height="712" />
+    </state>
+    <state x="278" y="120" width="806" height="524" key="Vcs.Push.Dialog.v2/0.28.1366.712@0.28.1366.712" timestamp="1588415536825" />
+    <state x="374" y="75" width="618" height="618" key="find.popup" timestamp="1588540856315">
+      <screen x="0" y="28" width="1366" height="712" />
+    </state>
+    <state x="374" y="75" width="618" height="618" key="find.popup/0.28.1366.712@0.28.1366.712" timestamp="1588540856315" />
+    <state x="346" y="61" width="672" height="678" key="search.everywhere.popup" timestamp="1588417573148">
+      <screen x="0" y="28" width="1366" height="712" />
+    </state>
+    <state x="346" y="61" width="672" height="678" key="search.everywhere.popup/0.28.1366.712@0.28.1366.712" timestamp="1588417573148" />
+  </component>
+</project>
