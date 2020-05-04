@@ -36,7 +36,7 @@ Test
     
     python3 manage.py test     
     
-###Note
+Note
 
 * Repository has includes test database with test data
 * Data is generated with Faker so it might be not relevent to what it means in context.
